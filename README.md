@@ -9,7 +9,7 @@
 Для начала работы с проектом, склонируйте его себе на локальный компьютер:
 
 ```bash
-git clone https://github.com/maxcrimea/traffic_light.git
+git clone https://github.com/evtushenkodev/traffic_light.git
 cd traffic_light
 ```
 
